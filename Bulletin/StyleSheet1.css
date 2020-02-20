@@ -1,0 +1,58 @@
+﻿.table1 {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    background-color: #F0FFFF;
+    border: 1px solid black;
+    border-radius: 25px;
+    border-collapse: separate;
+}
+
+.table1 th {
+    text-align: center;
+    color: #FFA3A3;
+    padding: 15px;
+}
+
+.table1 td {
+    padding: 15px;
+}
+
+.centrebtn {
+    text-align: center;
+    align-content: center;
+    margin: auto;
+    display: block;
+}
+
+.prettybutton {
+    box-shadow: 2px 2px #888888;
+    border: 1px solid black;
+    background-color: #A5B8DA;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#A5B8DA), to(#7089B3));
+    background-image: -webkit-linear-gradient(top, #A5B8DA, #7089B3);
+    background-image: -moz-linear-gradient(top, #A5B8DA, #7089B3);
+    background-image: -ms-linear-gradient(top, #A5B8DA, #7089B3);
+    background-image: -o-linear-gradient(top, #A5B8DA, #7089B3);
+    background-image: linear-gradient(to bottom, #A5B8DA, #7089B3);
+    filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#A5B8DA, endColorstr=#7089B3);
+}
+
+.createlink {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    background-color: #FFA3A3;
+    border: 1px solid black;
+    border-collapse: separate;
+    padding: 15px;
+}
+
+.bannertitle {
+    background-color: #FFA3A3;
+    color: white;
+}
+
+.label1 {
+    color: red;
+}
